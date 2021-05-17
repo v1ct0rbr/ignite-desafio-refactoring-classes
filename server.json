@@ -1,28 +1,35 @@
 {
   "foods": [
     {
-      "id": 1,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "name": "Ao molho",
+      "price": "R$ 19,90",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Veggie",
+      "price": "R$ 21,90",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
     },
     {
-      "id": 3,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "name": "A la Camarón",
+      "price": "R$ 25,90",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 3
+    },
+    {
+      "image": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1932-5a1b7911dfda6e3c351c30de564da267_medium.jpg.webp",
+      "name": "Pizza de mussarela",
+      "price": "R$ 50,00",
+      "description": "pizzas pan (massa grossa), massa fininha ou tradicional de mussarela",
+      "available": true,
+      "id": 4
     }
   ]
 }
